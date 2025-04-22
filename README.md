@@ -2,8 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 🔧 Atualmente trabalhando em projetos com **Arduino**, **Kotlin**, e **Android Studio**  
-📚 Apaixonado por tecnologia, desenvolvimento mobile e automação  
-🌍 Experiência com eventos internacionais, auxiliando e guiando visitantes estrangeiros  
+📚 Apaixonado por tecnologia, desenvolvimento mobile e automação   
 📈 Em busca de oportunidades para crescer como desenvolvedor
 
 ## ⚒️ Tecnologias e Ferramentas
@@ -18,5 +17,5 @@
 - [App Book Now (em desenvolvimento)](https://github.com/seuusuario/book-now)
 
 ## 📫 Contato
-- Email: seu.email@gmail.com
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seunome)
+- Email: victordinizdev@gmail.com
+- LinkedIn: Victor Diniz (https://www.linkedin.com/in/v1ctordiniz/)

@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou o Victor 👋
 
-<!--
-**Victor-Diniz-Dev/Victor-Diniz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔧 Atualmente trabalhando em projetos com **Arduino**, **Kotlin**, e **Android Studio**  
+📚 Apaixonado por tecnologia, desenvolvimento mobile e automação  
+🌍 Experiência com eventos internacionais, auxiliando e guiando visitantes estrangeiros  
+📈 Em busca de oportunidades para crescer como desenvolvedor
 
-Here are some ideas to get you started:
+## ⚒️ Tecnologias e Ferramentas
+- Arduino, C/C++
+- Kotlin, Java
+- Android Studio, Figma
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em Destaque
+- [Semáforo com Arduino e LCD 16x2](https://github.com/seuusuario/projeto-semaforo)
+- [App Book Now (em desenvolvimento)](https://github.com/seuusuario/book-now)
+
+## 📫 Contato
+- Email: seu.email@gmail.com
+- LinkedIn: [Seu Nome](https://linkedin.com/in/seunome)

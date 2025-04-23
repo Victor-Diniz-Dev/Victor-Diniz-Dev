@@ -4,9 +4,8 @@
     <h1>Hello! I´m Victor 👋</h1>
   </div>
   <div align="center">
-    <img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUzNjQxMTUsIm5iZiI6MTc0NTM2MzgxNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIyVDIzMTY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmMTkyZjk0NGRkNDZhM2MzYzQ0MTg4MmU1YzM1N2EyMjhkMmFhOGU0OTY4NjAzZjI0ZWI2MmIwODg1ZjUyNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.M2jLy4Gx0sXAjlL3f1vUO3c5aW0yE7gvsds81xI2j5Y" />
+    <img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU0MDg4MDcsIm5iZiI6MTc0NTQwODUwNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIzVDExNDE0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczMThlNmUwMTYxY2RhMDcyMDAyODI5MDE4NGU2ODE2ZTRlNGU2MjA0OGZiMTk3YzBkZTJlMWY1MGNiMzVlMDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6iq6rbjYh2Y8cbfBNj0o8UEHZ7lH8a7WkdObE5Us-k8" /img>
   </div>
-  
   <div style="margin-top: 30px;">
     <p>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong></p>
     <p>🛠️ Atualmente trabalhando em projetos com <strong>Arduino</strong>, <strong>Kotlin</strong>, e <strong>Android Studio</strong></p>
@@ -40,3 +39,4 @@
   </div>
 
 </div>
+

@@ -8,7 +8,7 @@
   </div>
   <div style="margin-top: 30px;">
     <p>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong></p>
-    <p>🛠️ Atualmente trabalhando em projetos com <strong>Arduino</strong>, <strong>Kotlin</strong>, e <strong>Android Studio</strong></p>
+    <p>🛠️ Atualmente trabalhando em projetos com <strong>Kotlin</strong> e <strong>Java</strong></p>
     <p>📱 Apaixonado por tecnologia, desenvolvimento mobile e automação</p>
     <p>🚀 Em busca de oportunidades para crescer como desenvolvedor</p>
   </div>
@@ -16,7 +16,6 @@
   <div style="margin-top: 30px;">
     <h2>🛠️ Technology and Tools</h2>
     <ul>
-      <li>Arduino, C/C++</li>
       <li>Kotlin, Java</li>
       <li>Android Studio, Figma</li>
       <li>HTML, CSS, JavaScript</li>
@@ -27,8 +26,7 @@
   <div style="margin-top: 30px;">
     <h2>📌 Projetos em Destaque</h2>
     <ul>
-      <li><a href="https://github.com/seuusuario/projeto-semaforo" target="_blank">Semáforo com Arduino e LCD 16x2</a></li>
-      <li><a href="https://github.com/seuusuario/book-now" target="_blank">App Book Now (em desenvolvimento)</a></li>
+      <li><a href="https://github.com/Victor-Diniz-Dev/mobile-book-now-app" target="_blank">App Book Now (em desenvolvimento)</a></li>
     </ul>
   </div>
 

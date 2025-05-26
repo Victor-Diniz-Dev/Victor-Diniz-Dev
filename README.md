@@ -32,8 +32,8 @@
 
   <div style="margin-top: 30px;">
     <h2>📬 Contato</h2>
-    <p>Email: <a href="mailto:victordinizdev@gmail.com">victordinizdev@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/v1ctordiniz/" target="_blank">Victor Diniz</a></p>
+    <a href = "mailto:victordinizdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/v1ctordiniz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
 </div>

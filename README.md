@@ -8,7 +8,7 @@
   </div>
   <div style="margin-top: 30px;">
     <p>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong></p>
-    <p>🛠️ Atualmente trabalhando em projetos com <strong>Kotlin</strong> e <strong>Java</strong></p>
+    <p>🛠️ Atualmente trabalhando em projetos com <strong>Kotlin</strong> e <strong>Python</strong></p>
     <p>📱 Apaixonado por tecnologia, desenvolvimento mobile e automação</p>
     <p>🚀 Em busca de oportunidades para crescer como desenvolvedor</p>
   </div>
@@ -16,19 +16,19 @@
   <div style="margin-top: 30px;">
     <h2>🛠️ Technology and Tools</h2>
     <ul>
-      <li>Kotlin, Java</li>
-      <li>Android Studio, Figma</li>
-      <li>HTML, CSS, JavaScript</li>
+      <li>Python</li>
+      <li>JS e Figma</li>
+      <li>HTML, CSS e JavaScript</li>
       <li>Git & GitHub</li>
     </ul>
   </div>
 
-  <div style="margin-top: 30px;">
+ <!-- <div style="margin-top: 30px;">
     <h2>📌 Projetos em Destaque</h2>
     <ul>
       <li><a href="https://github.com/Victor-Diniz-Dev/mobile-book-now-app" target="_blank">App Book Now (em desenvolvimento)</a></li>
     </ul>
-  </div>
+  </div> -->
 
   <div style="margin-top: 30px;">
     <h2>📬 Contato</h2>

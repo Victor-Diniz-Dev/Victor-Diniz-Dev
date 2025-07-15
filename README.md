@@ -27,6 +27,9 @@
     </ul>
   </div>
 
+  ![Snake animation](https://github.com/Victor-Diniz-Dev/Victor-Diniz-Dev/blob/output/github-contribution-grid-snake.svg)
+
+
  <!-- <div style="margin-top: 30px;">
     <h2>📌 Projetos em Destaque</h2>
     <ul>

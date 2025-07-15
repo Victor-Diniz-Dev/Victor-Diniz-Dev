@@ -1,5 +1,9 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto;">
 
+<div align = "center" width = "100%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=1827F7&center=true&width=435&lines=Welcome+%3A);Bem+Vindo+%3A)" alt="Typing SVG" /></a>
+</div>
+
   <div style="text-align: center;">
     <h1>Hello! I´m Victor 👋</h1>
   </div>

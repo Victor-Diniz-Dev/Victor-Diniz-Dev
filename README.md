@@ -12,7 +12,7 @@
   </div>
   <div style="margin-top: 30px;">
     <p>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong></p>
-    <p>🛠️ Atualmente trabalhando em projetos com <strong>Kotlin</strong> e <strong>Python</strong></p>
+    <p>🛠️ Atualmente trabalhando em projetos com <strong>Java Script</strong> e <strong>Python</strong></p>
     <p>📱 Apaixonado por tecnologia, desenvolvimento mobile e automação</p>
     <p>🚀 Em busca de oportunidades para crescer como desenvolvedor</p>
   </div>

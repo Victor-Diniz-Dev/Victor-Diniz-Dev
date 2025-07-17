@@ -20,14 +20,11 @@
   <div style="margin-top: 30px;">
     <h2>🛠️ Technology and Tools</h2>
     <ul>
-      <li>Python</li>
+      <li>Python e automações</li>
       <li>JS e Figma</li>
-      <li>HTML, CSS e JavaScript</li>
-      <li>Git & GitHub</li>
+      <li>Versionamento(GitHub)</li>
     </ul>
   </div>
-
-  ![Snake animation](https://github.com/Victor-Diniz-Dev/Victor-Diniz-Dev/blob/output/github-contribution-grid-snake.svg)
 
 
  <!-- <div style="margin-top: 30px;">
